@@ -1,3 +1,22 @@
+### - pip install braillebaseviet
+
+# Viet
+### We have managed to achieve our goals so far. We have not found braille representations for the accented letters of the Vietnamese language. We need help to update this part of the database.
+"Thư viện được phát triển để xử lý chữ nổi Braille đơn giản và phức tạp năm 2026"
+
+```python
+from braille import *
+
+bb = bbv()
+print(bb.output_braille_txt("Thư viện được phát triển để xử lý chữ nổi Braille đơn giản và phức tạp năm 2026"))
+```
+Output: ⠠⠞⠓⠳⠀⠧⠊⠣⠝⠀⠮⠳⠪⠉⠀⠏⠓⠁⠞⠀⠞⠗⠊⠣⠝⠀⠮⠣⠀⠭⠳⠀⠇⠽⠀⠉⠓⠳⠀⠝⠹⠊⠀⠠⠃⠗⠁⠊⠇⠇⠑⠀⠮⠪⠝⠀⠛⠊⠁⠝⠀⠧⠁⠀⠏⠓⠳⠉⠀⠞⠁⠏⠀⠝⠜⠍⠀⠼⠃⠚⠃⠋
+
+# Announcement
+- This package is part of an ecosystem called Braille Base. This name does not represent a company or business; it is an independent initiative aimed at providing registered braille tables for all of humanity.
+
+- We constantly need help to register, update, and validate braille tables. There is still no official contact channel, but you can find new information on the blog braillebase.blogspot.com or brailletable.blogspot.com.
+
 ## Pre-registered Letters and Characters
 
 - a, á, à, ả, ã, ạ
@@ -67,15 +86,14 @@
 
 - ., ,, ;, :, !, ?, ';
 
-- ", “, ”, ‘, ’, (, ), /, \ , [, ], ,{ ,} #; 
+- ", “, ”, ‘, ’, (, ), /, \ , [, ], ,{ ,} ,< ,> #; 
 
 - +, −, ×, *, ÷, %, =; 
 
 - $, ¢, ¥, €, £, ₣, ₦; 
 
-- →, ↓, ←, ↑, ©, ®, ™, ♀, ♂, §, @, &;
+- →, ↓, ←, ↑, ©, ®, ™, ♀, ♂, §, @, &, [@], [‘], [´], [*], [—], [-];
 
-## Special: Greek
-- [Α] ,[Β] ,[Γ] ,[Δ] ,[Ε] ,[Ζ] ,[Η] ,[Θ] ,[Ι] ,[Κ] ,[Λ] ,[Μ] ,[Ν] ,[Ξ] ,[Ο] ,[Π] ,[Ρ] ,[Σ] ,[Τ] ,[Υ] ,[Φ] ,[Χ] ,[Ψ] ,[Ω]
-- [α] ,[β] ,[γ] ,[δ] ,[ε] ,[ζ] ,[η] ,[θ] ,[ι] ,[κ] ,[λ] ,[μ] ,[ν] ,[ξ] ,[ο] ,[π] ,[ρ] ,[σ] ,[τ] ,[υ] ,[φ] ,[χ] ,[ψ] ,[ω] ,[ς]
-
+## Special: Greek Number
+- [Α] ,[Β] ,[Γ] ,[Δ] ,[Ε] ,[Ζ] ,[Η] ,[Θ] ,[Ι] ,[Κ] ,[Λ] ,[Μ] ,[Ν] ,[Ξ] ,[Ο] ,[Π] ,[Ρ] ,[Σ] ,[Τ] ,[Υ] ,[Φ] ,[Χ] ,[Ψ] ,[Ω];
+- [α] ,[β] ,[γ] ,[δ] ,[ε] ,[ζ] ,[η] ,[θ] ,[ι] ,[κ] ,[λ] ,[μ] ,[ν] ,[ξ] ,[ο] ,[π] ,[ρ] ,[σ] ,[τ] ,[υ] ,[φ] ,[χ] ,[ψ] ,[ω] ,[ς];
