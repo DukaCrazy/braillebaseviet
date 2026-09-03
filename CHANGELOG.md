@@ -1,7 +1,11 @@
 
+## 2026/09/03 - Version 0.2.8 Summary
+- Implementation of the tonal braille system in the Vietnamese BrailleBase dictionary.
+- Significant improvement in translation accuracy, especially for accented vowels and complex tonal combinations.
+- Expanded braille mapping coverage to reflect modern Vietnamese orthographic rules.
+- Internal adjustments to the tokenization module to support tonal composition without information loss.
 ## 2026/08/31 - Version 0.2.7 Summary
 - braillebase 0.2.7
-
 ## 2026/08/11 - Version 0.1.6 Summary
 ### Added
 - Full implementation of the BrailleBaseOutput module, responsible for generating multiple output formats based on the data processed by braillebase.
@@ -27,5 +31,6 @@
 
 ## 2026/08/01 - Version 0.1.3 Summary
 - Table update, addition of new characters, and improved alignment with the UEB standard.
+
 
 <img src="./img/logo.png" alt="Logo" width="500" height="493">
