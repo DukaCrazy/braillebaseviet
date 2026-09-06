@@ -45,7 +45,6 @@
         https://braille.codes/tables.html
         https://www.edvisionservices.org/Formsupdated/PDFForms/UEB_chart_and_reference_guide.pdf
         https://grokipedia.com/page/vietnamese_braille
-        https://braille.codes/tables.html
-        https://www.edvisionservices.org/Formsupdated/PDFForms/UEB_chart_and_reference_guide.pdf
+
 
 <img src="./img/logo.png" alt="Logo" width="500" height="493">
