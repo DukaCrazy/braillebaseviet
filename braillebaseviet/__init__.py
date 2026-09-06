@@ -6,7 +6,7 @@ class BrailleBaseViet(BrailleBase):
         """
         """
         super().__init__()
-        self.setting_braille_rules_uppercase("⠠", "⠠⠠") #2026/05/18
+        self.setting_braille_rules_uppercase("⠒⠨","⠠⠠","⠠⠄") #2026/09/06
         #Viet
         self.append_braille_letter("ă", ["⠜"]) #2026/09/03
         self.append_braille_letter("â", ["⠡"]) #2026/09/03
