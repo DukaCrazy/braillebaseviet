@@ -1,4 +1,7 @@
 
+## 2026/9/6 - Version 0.2.9 Sumary
+- Update to the logic that processes uppercase and lowercase characters.
+
 ## 2026/09/03 - Version 0.2.8 Summary
 - Implementation of the tonal braille system in the Vietnamese BrailleBase dictionary.
 - Significant improvement in translation accuracy, especially for accented vowels and complex tonal combinations.
