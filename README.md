@@ -98,4 +98,15 @@ Output: ⠠⠞⠓⠳⠀⠧⠊⠣⠝⠀⠮⠳⠪⠉⠀⠏⠓⠁⠞⠀⠞⠗⠊⠣
 - [Α] ,[Β] ,[Γ] ,[Δ] ,[Ε] ,[Ζ] ,[Η] ,[Θ] ,[Ι] ,[Κ] ,[Λ] ,[Μ] ,[Ν] ,[Ξ] ,[Ο] ,[Π] ,[Ρ] ,[Σ] ,[Τ] ,[Υ] ,[Φ] ,[Χ] ,[Ψ] ,[Ω];
 - [α] ,[β] ,[γ] ,[δ] ,[ε] ,[ζ] ,[η] ,[θ] ,[ι] ,[κ] ,[λ] ,[μ] ,[ν] ,[ξ] ,[ο] ,[π] ,[ρ] ,[σ] ,[τ] ,[υ] ,[φ] ,[χ] ,[ψ] ,[ω] ,[ς];
 
+# BrailleBaseViet Overview
+## BrailleBaseViet is a project designed to map the unique characteristics of the Vietnamese language and translate them into Braille.
+
+<p>Although Vietnamese Braille incorporates elements of the UEB (Unified English Braille) standard, it also includes several distinctive features, drawing on European Braille systems as well as adaptations specific to the Vietnamese language itself. This combination of standards and linguistic features made the project an especially interesting and valuable technical challenge, contributing significantly to the development and refinement of our core conversion engine.<br>
+<br>
+We are very pleased to contribute to the development of educational tools that promote accessibility in Vietnam. Beyond being a country known for its welcoming people and distinctive cuisine, Vietnam also offered relatively favorable conditions for finding documents that describe the rules and conventions of Vietnamese Braille.
+<br>
+However, as in many countries around the world, some of these materials are available only as digitized photocopies. While these documents can be viewed digitally, their format often makes the content difficult for blind people to access, especially when no accessible text version is available for screen readers to process. This experience reinforced the importance of developing tools that not only facilitate Braille conversion but also help expand access to information and knowledge.<br>
+<br>
+We would like to thank you in advance for your interest in our tool. We would be delighted to have the opportunity to present it in person and share more about the project. We also hope to receive an invitation to visit Vietnam, learn more about its culture, and, of course, enjoy its famous and delicious Vietnamese coffee.<br></p>
+
   <img src="./img/logo.png" alt="Logo" width="500" height="493">
